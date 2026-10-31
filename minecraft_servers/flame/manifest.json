@@ -1,11 +1,15 @@
 {
-  "server_name": "flame",
-  "nice_name": "FlameMC",
+  "server_name": "FlameMC",
   "direct_ip": "jogar.flamemc.com.br",
+  "server_wildcards": [
+    "flamemc.com.br",
+    "*.flamemc.com.br"
+  ],
   "supported_languages": [
     "pt-BR",
     "pt-PT"
-  ],
+  ]
+},
   "social": {
     "web": "https://flamemc.com.br",
     "web_shop": "https://loja.flamemc.com.br",
